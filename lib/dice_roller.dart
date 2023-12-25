@@ -35,7 +35,7 @@ class _DiceRollerState extends State<DiceRoller> {
             textStyle: const TextStyle(fontSize: 28),
             padding: const EdgeInsets.only(top: 20),
           ),
-          child: const Text('Roll Dice'),
+          child: const Text('Roll Dice!'),
         )
       ],
     );
